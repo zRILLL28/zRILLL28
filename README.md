@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Yusril Arbizal 👋
 
-<!--
-**zRILLL28/zRILLL28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh graduate in Informatics passionate about turning data into actionable insights. I enjoy working across data analytics, business intelligence, and software quality assurance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Data & Analytics**  
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-185FA5?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-185FA5?style=flat&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-185FA5?style=flat&logo=microsoftexcel&logoColor=white)
+
+**QA & Testing**  
+![Jira](https://img.shields.io/badge/Jira-378ADD?style=flat&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-378ADD?style=flat&logo=selenium&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-378ADD?style=flat&logo=katalon&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-378ADD?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Data Analytics & Business Intelligence
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [E-Commerce Sales Analysis](https://github.com/zRILLL28/ecommerce-sales-analysis) | EDA on 2,000 transactions — revenue trends, category performance, customer behavior | Python, Pandas, Matplotlib |
+| [Data Analytics Portfolio](https://github.com/zRILLL28/Data-Analytics-Portofolio) | BI dashboards covering Google Play Store, social media, streaming platform analytics | Tableau, Metabase |
+| [Maven Market Dashboard](https://github.com/zRILLL28/Maven-Market-Sales-Performance-Dashboard) | Sales performance dashboard for retail chain | Power BI |
+
+### 🧪 QA & Automation
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Web Automation — Selenium](https://github.com/zRILLL28/web-automation-selenium-python) | End-to-end automated testing for e-commerce web app (registration to checkout) | Selenium, Python |
+| [Web Automation — Katalon](https://github.com/zRILLL28/Katalon-Web-Automation) | Functional test automation using Katalon Studio | Katalon, TypeScript |
+| [API Testing](https://github.com/zRILLL28/API-Testing---Automation-Exercise) | REST API testing covering CRUD operations and response validation | Postman |
+
+---
+
+## 📈 GitHub Stats
+
+![Yusril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zRILLL28&show_icons=true&hide_border=true&title_color=185FA5&icon_color=185FA5&text_color=444444&bg_color=ffffff)
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusril_Arbizal-185FA5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusril-arbizal)
+[![Email](https://img.shields.io/badge/Email-yusrilarbizal65@gmail.com-185FA5?style=flat&logo=gmail&logoColor=white)](mailto:yusrilarbizal65@gmail.com)
+
+---
+
+*Open to roles in Data Analytics, Business Intelligence, and QA Engineering.*
