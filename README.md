@@ -39,12 +39,6 @@ Fresh graduate in Informatics passionate about turning data into actionable insi
 
 ---
 
-## 📈 GitHub Stats
-
-![Yusril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zRILLL28&show_icons=true&hide_border=true&title_color=185FA5&icon_color=185FA5&text_color=444444&bg_color=ffffff)
-
----
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusril_Arbizal-185FA5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusril-arbizal)
